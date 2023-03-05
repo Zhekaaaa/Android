@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_500"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/spiice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Spiice"
+        android:layout_marginTop="110dp"
+        android:textAlignment="center"
+        android:textSize="60sp"
+        android:textColor="#070303"
+
+        />
+
+    <Button
+        android:id="@+id/Discovertheplatfoem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spiice"
+        android:layout_marginTop="250dp"
+        android:backgroundTint="@color/teal_200"
+        android:layout_marginHorizontal="50dp"
+        android:text="@string/Discover"
+        android:textColor="@color/black"
+        android:textSize="18dp" />
+
+
+    <TextView
+        android:id="@+id/haveaccounts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/have"
+        android:textAlignment="center"
+        android:layout_below="@+id/Discovertheplatfoem"
+        android:layout_marginTop="100dp"
+        android:textSize="13dp"
+
+
+
+
+
+
+        />
+
+</RelativeLayout>

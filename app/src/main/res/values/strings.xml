@@ -1,0 +1,12 @@
+<resources>
+    <string name="Skip">Skip</string>
+    <string name="app_name">Lesson</string>
+    <string name="Spiice">Spiice</string>
+    <string name="Discover">Discover the platform</string>
+    <string name="have">You have an account ? Log-in</string>
+    <string name="find"> Find projects from companies ewerywhere in the world</string>
+    <string name="make"> Make money while working on awesome projects</string>
+    <string name="level"> Work hard and level up!</string>
+    <string name="chat"> Chat with others freelancers and develop your network</string>
+    <string name="LOgin">Log-in</string>
+</resources>
